@@ -28,6 +28,12 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         drawer_layout.addDrawerListener(toggle)
         toggle.syncState()
 
+        val button = findViewById<buttonL>(R.id.button)
+        button.setOnClickListener(clickListener)
+        button.setOnClickListener {
+
+        }
+
         nav_view.setNavigationItemSelectedListener(this)
     }
 
