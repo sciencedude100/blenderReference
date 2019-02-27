@@ -1,8 +1,8 @@
 # blenderReference
 Blender Documentation on Android
 
-<span style="background:black;">
-[![Get it on Google Play](https://bref.ejg.io/img/googleplay.png)](#)
+<span style="color:blak;''">
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/1280px-Get_it_on_Google_play.svg.png)](#)
 </span>
 
 ## Google Play Description:
