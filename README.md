@@ -1,9 +1,7 @@
 # blenderReference
 Blender Documentation on Android
 
-<span style="color:blak;''">
 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/1280px-Get_it_on_Google_play.svg.png)](#)
-</span>
 
 ## Google Play Description:
 Blender is a powerful 3D modeling, rendering, and compositing tool available for Windows, Linux, and Mac OS X.
