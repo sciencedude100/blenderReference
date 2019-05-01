@@ -6,4 +6,18 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="reference_manual">Reference Manual</string>
+    <string name="ask_for_help">Ask for Help</string>
+    <string name="developer_docs">Developer Docs</string>
+    <string name="python_api">Python API</string>
+    <string name="references_available">References Available:</string>
+    <string name="github_ejg_io">github.ejg.io</string>
+    <string name="kotlin_uses">Kotlin Uses</string>
 </resources>
